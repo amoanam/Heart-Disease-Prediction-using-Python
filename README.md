@@ -5,5 +5,5 @@ This project will predict whether a person has 'Heart disease' or not. The outco
 1 (One) as Having heart disease
 0 (Zero) as Healthy
 Choosing Dataset;
-The dataset will be used in this project is from 'kaggle', link is "https://www.kaggle.com/priyanka841/heart-disease-prediction-uci".
+The dataset will be used in this project is from 'kaggle'.
 
